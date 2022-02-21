@@ -1,0 +1,271 @@
+{
+    "dns": {
+        "google": [
+            "8.8.8.8",
+            "8.8.4.4"
+        ],
+        "cloudfire": [
+            "1.1.1.1",
+            "1.0.0.1"
+        ],
+        "opendns": [
+            "208.67.222.222",
+            "208.67.220.220"
+        ],
+        "quad9": [
+            "9.9.9.9",
+            "149.112.112.112"
+        ],
+        "comodo_dns": [
+            "8.26.56.26",
+            "8.20.247.20"
+        ],
+        "Verisign": [
+            "64.6.64.6",
+            "64.6.65.6"
+        ]
+    },
+    "game_servers": {
+        "leagueoflegends": {
+            "Name": "League Of Legends",
+            "Short": "LOL",
+            "Icon": "lol.png",
+            "Servers": [
+                {"EUNE": "162.249.75.148"},
+                {"EUW": "95.172.65.3"},
+                {"Brazil": "104.160.152.3"},
+                {"Latin America North": "104.160.136.3"},
+                {"NA": "104.160.131.29"},
+                {"Oceania": "104.160.157.4"},
+                {"Russia": "162.249.73.2"}]
+        },
+        "pubg": {
+            "Name": "Player Unknown Battlegrounds",
+            "Short": "PUBG",
+            "Icon": "pubg.png",
+            "Servers": [
+                {"EU - Ireland": "52.16.0.2"},
+                {"EU - Frankfurt": "52.28.63.252"},
+                {"EU - London": "52.56.34.0"},
+                {"US EAST - Ohio": "52.14.64.0"},
+                {"US WEST - North California": "52.8.191.254"},
+                {"US WEST - Oregon": "52.36.0.2"},
+                {"US WEST - Central": "52.60.50.0"},
+                {"SOUTH AMERICA - Sao Paulo": "52.67.255.254"},
+                {"US EAST - North Virginia": "52.1.255.254"},
+                {"ASIA PACIFIC - Tokyo": "52.192.63.252"},
+                {"ASIA PACIFIC - Seoul": "52.78.63.252"},
+                {"ASIA PACIFIC - Singapore": "52.76.0.2"},
+                {"ASIA PACIFIC - Sydney": "52.62.63.252"},
+                {"ASIA PACIFIC - Mumbai": "52.66.66.2"}]
+        },
+        "rocketleague": {
+            "Name": "Rocket League",
+            "Short": "",
+            "Icon": "rl.png",
+            "Servers": [
+                {"Europe": "3.125.40.110"},
+                {"Middle East": "15.185.229.122"},
+                {"US East": "34.68.214.206"},
+                {"US West": "35.236.95.71"},
+                {"South Africa": "185.179.201.75"},
+                {"South America": "35.199.97.36"},
+                {"Oceania": "54.206.26.123"},
+                {"Asia east": "34.84.105.145"},
+                {"Asia east SE Mainland": "128.1.225.110"},
+                {"Asia east SE Maritime": "34.87.47.159"}]
+        },
+        "dota": {
+            "Name": "Dota 2",
+            "Short": "",
+            "Icon": "dota2.png",
+            "Servers": [
+                {"US East - Sterling, VA": "208.78.164.2"},
+                {"US West - Seattle, WA": "192.69.96.1"},
+                {"Australia - Sydney": "103.10.125.1"},
+                {"Chile - Santiago": "200.73.67.1"},
+                {"Dubai - UAE": "185.25.183.1"},
+                {"Europe East 1 - Vienna, Austria": "146.66.155.1"},
+                {"Europe East 2 - Vienna, Austria": "185.25.182.1"},
+                {"Europe West 1 - Luxembourg": "146.66.152.2"},
+                {"Europe West 2 - Luxembourg": "146.66.158.1"},
+                {"India - Kolkata": "116.202.224.146"},
+                {"Peru - Kolkata": "191.98.144.1"},
+                {"Russia 1 - Sweden": "146.66.156.2"},
+                {"Russia 2 - Sweden": "185.25.180.1"},
+                {"SE Asia 1 - Singapore":"103.28.54.16"},
+                {"SE Asia 2 - Singapore": "103.10.124.1"},
+                {"South Africa 1 - Cape Town": "197.80.200.1"},
+                {"South Africa 2 - Cape Town": "197.84.209.1"},
+                {"South Africa 3 - Johannesburg": "196.38.180.1"},
+                {"South America 1 - Sao Paulo": "205.185.194.1"},
+                {"South America 2 - Sao Paulo": "209.197.25.1"},
+                {"South America 3 - Sao Paulo": "209.197.29.1"}]
+        },
+        "csgo": {
+            "Name":"Counter Strike Global Offensive",
+            "Short": "CSGO",
+            "Icon": "csgo.png",
+            "Servers": [
+                {"Middle East - Dubai": "185.25.183.1"},
+                {"EU North/Russia - Sweden": "146.66.156.3"},
+                {"EU East - Vienna": "146.66.155.1"},
+                {"EU West - Luxembourg": "146.66.152.3"},
+                {"US East - Virginia": "208.78.164.1"},
+                {"US West - Washington": "192.69.96.1"},
+                {"SE Asia - Singapore": "103.28.54.1"},
+                {"South Africa - Cape town": "197.80.4.37"},
+                {"Australia - Sydney": "103.10.125.3"},
+                {"South America - Brazil": "209.197.29.0"},
+                {"India - New Delhi": "116.202.224.146"},
+                {"US SouthWest - California": "162.254.194.3"},
+                {"US SouthEast - Atlanta": "162.254.199.1"},
+                {"Asia": "45.121.184.4"},
+                {"Poland": "155.133.243.0"},
+                {"Japan": "45.121.186.4"}
+                ]
+        },
+        "overwatch":{
+            "Name": "Overwatch",
+            "Short": "",
+            "Icon": "overwatch.png",
+            "Servers":[
+                {"US West": "24.105.30.129"},
+                {"US Central": "24.105.62.129"},
+                {"Brazil": "54.207.107.12"},
+                {"Europe 1": "185.60.114.159"},
+                {"Europe 2": "185.60.112.157"},
+                {"Korea": "211.234.110.1"},
+                {"Taiwan": "203.66.81.98"}
+            ]
+        },
+        "worldoftanks":{
+            "Name": "World of Tanks",
+            "Short": "",
+            "Icon": "wot.png",
+            "Servers": [
+                {"Europe 1": "login.p2.worldoftanks.eu"},
+                {"Europe 2": "login.p1.worldoftanks.eu"}
+            ]
+        },
+        "fortnite":{
+            "Name": "Fortnite",
+            "Short": "",
+            "Icon": "fortnite.png",
+            "Servers":[
+                {"Europe": "qosping-aws-eu-west-3.ol.epicgames.com"},
+                {"NA-West": "qosping-aws-us-west-1.ol.epicgames.com"},
+                {"NA-East": "qosping-aws-us-east-1.ol.epicgames.com"},
+                {"Oceania": "qosping-aws-ap-southeast-2.ol.epicgames.com"},
+                {"Brazil": "qosping-aws-sa-east-1.ol.epicgames.com"},
+                {"Asia": "qosping-aws-ap-northeast-1.ol.epicgames.com"},
+                {"Middle East": "qosping-aws-me-south-1.ol.epicgames.com"}
+            ]
+        },
+        "worldofwarcraft":{
+            "Name":"World of Warcraft",
+            "Short": "",
+            "Icon":"wow.png",
+            "Servers":[
+                {"US West - California": "137.221.105.2"},
+                {"US Central - Chicago": "24.105.62.129"},
+                {"Europe 1": "185.60.112.157"},
+                {"Europe 2": "185.60.112.158"},
+                {"Europe 3": "185.60.114.159"},
+                {"Korea": "211.115.104.1"},
+                {"Taiwan": "210.71.148.11"},
+                {"Oceania": "103.4.115.248"}
+            ]
+        },
+        "fifa":{
+            "Name":"FIFA",
+            "Short": "",
+            "Icon":"fifa.png",
+            "Servers":[
+                {"Frankfurt- Germany": "3.126.60.70"},
+                {"Stockholm - Sweden": "13.49.40.10"},
+                {"Paris - France": "15.236.74.1"},
+                {"Amsterdam - Netherlands": "31.204.138.30"},
+                {"Doblin - Erland": "3.248.243.100"},
+                {"Mumbai - india": "13.126.45.82"},
+                {"Hongkong - China": "180.150.147.80"},
+                {"Dubai - UAE": "185.179.202.201"},
+                {"Washington - NA": "159.153.95.95"}
+            ]
+        },
+        "r6s": {
+            "Name":"Tom Clancy's Rainbow Six Siege",
+            "Short": "R6S",
+            "Icon":"six.png",
+            "Servers":[
+                {"East US": "104.44.21.216"},
+                {"Central US": "104.44.22.194"},
+                {"South Central US": "104.44.40.2"},
+                {"West US": "104.44.22.154"},
+                {"Brazil South": "104.44.22.52"},
+                {"North Europe": "104.44.11.70"},
+                {"Central Europe": "104.44.23.239"},
+                {"West Europe": "104.44.232.167"},
+                {"South Africa North": "104.44.20.66"},
+                {"East Asia": "104.44.11.146"},
+                {"South East Asia": "104.44.11.184"},
+                {"Australia South East": "104.44.11.172"},
+                {"Japan West": "104.44.11.24"},
+                {"UAE North": "104.44.22.108"}
+            ]
+        },
+        "roguecompany":{
+            "Name":"Rogue Company",
+            "Short": "",
+            "Icon":"rogue.png",
+            "Servers":[
+                {"Europe": "208.122.30.149"},
+                {"NA East": "216.52.127.67"},
+                {"NA West": "66.151.144.7"},
+                {"Brazil": "89.149.129.214"},
+                {"Latin America North": "213.200.113.142"},
+                {"North Asia - Tokyo": "61.200.80.154"},
+                {"Oceania": "103.200.13.188"}
+            ]
+        },
+        "valorant":{
+            "Name":"Valorant",
+            "Short": "",
+            "Icon":"valorant.png",
+            "Servers":[
+                {"Europe 1": "99.83.173.237"},
+                {"Europe 2": "80.77.16.73"},
+                {"Middle East": "99.83.199.240"},
+                {"East Asia": "210.57.81.242"},
+                {"South Asia": "23.57.76.151"},
+                {"South East Asia": "182.50.85.63"},
+                {"Oceania": "114.31.192.47"},
+                {"NA": "62.115.123.125"}
+            ]
+        },
+        "halo": {
+            "Name":"Halo",
+            "Short": "",
+            "Icon":"halo.png",
+            "Servers":[
+                {"West Europe": "104.44.22.234"},
+                {"North Europe": "104.44.11.229"},
+                {"West US": "13.73.33.93"},
+                {"West US 2": "104.44.21.140"},
+                {"North Central US": "104.44.11.12"},
+                {"East US 2": "104.44.21.64"},
+                {"East US": "104.44.22.210"},
+                {"Central US": "104.44.22.180"},
+                {"South Central US": "104.44.28.226"},
+                {"Australia East": "104.44.11.108"},
+                {"Australia South East": "104.44.11.178"},
+                {"South Africa North": "104.44.20.64"},
+                {"Japan East": "104.44.20.44"},
+                {"Japan West": "104.44.11.38"},
+                {"Brazil South": "104.44.22.60"},
+                {"East Asia": "104.44.11.134"},
+                {"South East Asia": "104.44.20.12"}
+            ]
+        }
+    }
+}
