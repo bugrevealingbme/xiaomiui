@@ -77,8 +77,9 @@
                 {"South Africa 1 - Cape Town": "197.80.200.1"},
                 {"South Africa 2 - Cape Town": "197.84.209.1"},
                 {"South Africa 3 - Johannesburg": "196.38.180.1"},
-                {"South America 2 - Sao Paulo": "209.197.25.1"},
-        },
+                {"South America 2 - Sao Paulo": "209.197.25.1"}
+            ]
+            },
         "csgo": {
             "Name":"Counter Strike Global Offensive",
             "Short": "CSGO",
@@ -92,7 +93,7 @@
                 {"Australia - Sydney": "103.10.125.3"},
                 {"South America - Brazil": "209.197.29.0"},
                 {"US SouthWest - California": "162.254.194.3"},
-                {"US SouthEast - Atlanta": "162.254.199.1"},
+                {"US SouthEast - Atlanta": "162.254.199.1"}
                 ]
         },
         "overwatch":{
@@ -103,7 +104,7 @@
                 {"US West": "24.105.30.129"},
                 {"Europe 1": "185.60.114.159"},
                 {"Europe 2": "185.60.112.157"},
-                {"Korea": "211.234.110.1"},
+                {"Korea": "211.234.110.1"}
             ]
         },
         "worldoftanks":{
